@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuyao Huang"
-  avatar           : "yhuang_pics.png"
+  avatar           : "profile.png"
   bio              : "I look up my eyes to the hill."
   location         : "Beijing, China"
   #employer         :
@@ -96,7 +96,7 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  github           : "https://github.com/adorableluke"
+  github           : "https://adorableluke.github.io"
   #google_plus      :
   #keybase          :
   #instagram        :
