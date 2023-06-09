@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuyao Huang / Personal Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yuyao Huang"
-description              : &description "Ph.D student in EE, Tsinghua University"
-url                      : https://adorableluke/yhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adorableluke/yhuang.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,41 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuyao Huang"
-  avatar           : "yhuang_pic.png"
-  bio              : "I look up my eyes to the hill."
-  location         : "Beijing, China"
-  #employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wpj7pFIAAAAJ&hl=en"
-  email            : "huang-yy21@mails.tsinghua.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Yuyao-Huang-4"
-  #uri              :
-  #bitbucket        :
-  #codepen          :
-  #dribbble         :
-  #flickr           :
-  #facebook         :
-  #foursquare       :
-  #github           : "http"
-  #google_plus      :
-  #keybase          :
-  #instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  #lastfm           :
-  linkedin         : "https://www.linkedin.cn/incareer/in/ACoAABodKLUB8pgehgnqJsKA57jNSecEY7BG-xc"
-  orcid            : "https://orcid.org/0000-0002-3989-9514"
-  #pinterest        :
-  #soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
-  #steam            :
-  #tumblr           :
-  #twitter          : "replacethistwitterhandle"
-  #vine             :
-  #weibo            :
-  #xing             :
-  #youtube          :
-  #wikipedia        :
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
